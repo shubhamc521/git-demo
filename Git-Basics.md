@@ -50,8 +50,12 @@ Where Git fits in Devops:
 
         Working Directory           Staging area                Local Repository
             Edit files           Selecting the changes               Save Commits
-
-                    
+                    ---------------->          --------------------->
+                         git add                       git commit
+                                        |
+                                    git push
+                                        |
+                                    Remote Repo (Gitlab or Github)                    
 
 
 
