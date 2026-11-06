@@ -58,4 +58,20 @@ Where Git fits in Devops:
                                     Remote Repo (Gitlab or Github)                    
 
 
+# Branching and Merging
+
+A prod website is working fine but you want to add there new diwali banner.
+
+We will create a seperate branch.
+
+Branch ---- Movable pointer to a sequence of commit, allowing to isolate the dev work.
+
+
+----------------------------------------------------------------
+main            |                              | merge
+                |------------------------------|
+                Diwalibanner
+
+Diwali Offer : 50% off.
+
 
