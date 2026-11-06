@@ -72,6 +72,6 @@ main            |                              | merge
                 |------------------------------|
                 Diwalibanner
 
-Diwali Offer : 50% off.
+Diwali Offer : 30% off.
 
 
